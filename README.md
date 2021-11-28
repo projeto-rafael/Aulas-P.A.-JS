@@ -1,5 +1,5 @@
 # Aulas-P.A.-JS
-Uma pequena lista com exercícios sobre JavaScript. 
+## Uma pequena lista com exercícios sobre JavaScript. 
 
 ## Link para o exercício da Calculadora ↓ : 
 ## https://projeto-rafael.github.io/Aulas-P.A.-JS/
