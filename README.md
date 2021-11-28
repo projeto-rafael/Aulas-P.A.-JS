@@ -1,11 +1,11 @@
 # Aulas-P.A.-JS
 ## Uma pequena lista com exercícios sobre JavaScript. 
 
-## Link para o exercício da Calculadora ↓ : 
-## https://projeto-rafael.github.io/Aulas-P.A.-JS/
+### Link para o exercício da Calculadora ↓ : 
+### https://projeto-rafael.github.io/Aulas-P.A.-JS/
 
-## Link para o exercício do IMC ↓ :
-## https://projeto-rafael.github.io/Aulas-P.A.-JS-IMC/
+### Link para o exercício do IMC ↓ :
+### https://projeto-rafael.github.io/Aulas-P.A.-JS-IMC/
 
-## Link para o exercício dos Operadores ↓ :
-## https://projeto-rafael.github.io/Aulas-P.A.-JS-Operadores/
+### Link para o exercício dos Operadores ↓ :
+### https://projeto-rafael.github.io/Aulas-P.A.-JS-Operadores/
